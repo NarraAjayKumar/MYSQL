@@ -1,0 +1,1 @@
+select grade , sum(marks) from student group by grade;

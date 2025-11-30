@@ -1,0 +1,1 @@
+update student set marks = marks + 5 where city = 'Delhi';

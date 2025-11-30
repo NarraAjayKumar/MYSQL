@@ -1,0 +1,1 @@
+select name,city from student a where city = 'Delhi' union all select name, city from student b where city = 'Delhi';

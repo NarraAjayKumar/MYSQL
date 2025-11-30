@@ -1,0 +1,1 @@
+select * from student where marks > (select marks from student where rollno = 103);

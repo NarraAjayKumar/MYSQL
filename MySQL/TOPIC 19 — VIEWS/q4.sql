@@ -1,0 +1,1 @@
+drop view student_v;

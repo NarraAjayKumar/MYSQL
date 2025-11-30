@@ -1,0 +1,1 @@
+update student set marks = 90  where rollno = 101;

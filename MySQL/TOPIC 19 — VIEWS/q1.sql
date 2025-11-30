@@ -1,0 +1,1 @@
+create view student_v as select name,marks,city from student;

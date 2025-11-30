@@ -1,0 +1,1 @@
+select avg(marks) from student;

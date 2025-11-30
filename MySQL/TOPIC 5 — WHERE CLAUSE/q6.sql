@@ -1,0 +1,1 @@
+select * from student where city =  'Pune' or city = 'Mumbai';

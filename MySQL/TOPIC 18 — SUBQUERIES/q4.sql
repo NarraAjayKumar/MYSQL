@@ -1,0 +1,1 @@
+select max(marks) from student where city = 'Mumbai' and marks = (select max(marks) from student where city = 'Mumbai');

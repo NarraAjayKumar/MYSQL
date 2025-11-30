@@ -1,0 +1,1 @@
+create view student_view as select * from student where city = 'Delhi' ;

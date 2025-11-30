@@ -1,0 +1,1 @@
+select distinct a.city from student a join student b on a.city = b.city and a.rollno = b.rollno;

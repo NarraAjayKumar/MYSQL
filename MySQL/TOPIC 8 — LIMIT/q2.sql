@@ -1,0 +1,1 @@
+select * from student where marks is not null order by marks asc limit 2;

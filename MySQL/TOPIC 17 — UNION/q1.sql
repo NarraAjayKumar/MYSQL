@@ -1,0 +1,1 @@
+select name from student a union select name from student b;

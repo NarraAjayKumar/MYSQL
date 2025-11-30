@@ -1,0 +1,1 @@
+select * from student where city = 'Delhi'  and marks>80;

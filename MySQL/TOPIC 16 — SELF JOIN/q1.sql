@@ -1,0 +1,1 @@
+select a.rollno,a.name ,b.rollno as rollno2,b.name as name2, a.city from student a join student b on a.city = b.city and a.rollno != b.rollno;  

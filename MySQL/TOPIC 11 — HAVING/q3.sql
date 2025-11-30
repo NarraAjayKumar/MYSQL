@@ -1,0 +1,1 @@
+select city, count(*) from student group by city having count(*)>=2;

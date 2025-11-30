@@ -1,0 +1,1 @@
+delete from student where rollno = 105;

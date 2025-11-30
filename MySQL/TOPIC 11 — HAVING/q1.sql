@@ -1,0 +1,1 @@
+select city, avg(marks) from student group by city having avg(marks)>80;

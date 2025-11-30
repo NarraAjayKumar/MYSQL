@@ -1,0 +1,1 @@
+select grade , count(*) from student group by grade;

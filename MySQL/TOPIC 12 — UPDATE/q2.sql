@@ -1,0 +1,1 @@
+update student set grade = 'A' where marks>90;

@@ -1,0 +1,1 @@
+select * from student where marks>(select avg(marks) from student);

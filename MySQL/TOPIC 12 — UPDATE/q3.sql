@@ -1,0 +1,1 @@
+update student set  city = 'Pune' where rollno = 103;

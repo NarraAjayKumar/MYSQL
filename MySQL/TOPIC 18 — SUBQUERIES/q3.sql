@@ -1,0 +1,1 @@
+select name from student where rollno in (select rollno from student where rollno % 2 = 0); 

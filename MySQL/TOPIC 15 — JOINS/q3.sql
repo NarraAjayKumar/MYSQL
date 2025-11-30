@@ -1,0 +1,1 @@
+select * from student right join course on student.rollno = course.st_id;
