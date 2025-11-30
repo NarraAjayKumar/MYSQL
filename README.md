@@ -5,7 +5,7 @@ It is a complete learning reference showcasing my SQL skills from beginner to ad
 
 ---
 
-## 📘 About This Repository
+##  About This Repository
 
 This repo includes:
 
@@ -22,5 +22,4 @@ This is my personal SQL learning journey — updated regularly.
 
 ---
 
-## 📂 Folder Structure (If applicable)
 
